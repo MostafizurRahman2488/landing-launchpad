@@ -91,3 +91,40 @@ nav {
 .right img {
     border-radius: 48px;
 }
+
+/* Productive Users Section */
+.user .feedback,
+.user .type {
+    margin: 0;
+}
+
+.feedback {
+    font-size: 80px;
+    font-weight: bolder;
+    color: #4E47FF;
+}
+
+.type {
+    font-size: 20px;
+}
+
+.user-container {
+    display: flex;
+    gap: 160px;
+}
+
+.section-title {
+    font-size: 2em;
+}
+
+.productive {
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.section-container {
+    padding: 50px 140px;
+    background-color: #e5e7ff;
+    border-radius: 24px;
+}
