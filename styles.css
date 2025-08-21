@@ -57,7 +57,7 @@ nav {
 
 /* Background image styles */
 .header {
-    background-image: url(../Assets/Hero-bg.png);
+    background-image: url(./Assets/Hero-bg.png);
     height: 700px;
     width: 100%;
 }
